@@ -50,9 +50,9 @@ strict-uri-encode@^1.0.0:
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/strict-uri-encode/-/strict-uri-encode-1.1.0.tgz#279b225df1d582b1f54e65addd4352e18faa0713"
 
-weex-vue-render@0.12.1:
-  version "0.12.1"
-  resolved "https://registry.yarnpkg.com/weex-vue-render/-/weex-vue-render-0.12.1.tgz#13410bd0eef1ce4a344caf470c1747fc08ef2968"
+weex-vue-render@0.12.2:
+  version "0.12.2"
+  resolved "https://registry.yarnpkg.com/weex-vue-render/-/weex-vue-render-0.12.2.tgz#c61d9b162e239d46798fd8bbb4e657f376ffef16"
   dependencies:
     core-js "^2.4.1"
     envd "^0.1.1"
