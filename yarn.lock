@@ -54,9 +54,9 @@ vue@^2.1.5:
   version "2.4.2"
   resolved "https://registry.yarnpkg.com/vue/-/vue-2.4.2.tgz#a9855261f191c978cc0dc1150531b8d08149b58c"
 
-weex-vue-render@0.11.2:
-  version "0.11.2"
-  resolved "https://registry.yarnpkg.com/weex-vue-render/-/weex-vue-render-0.11.2.tgz#d6bd55146c4e8dc11945981fff24eed0e402479f"
+weex-vue-render@0.11.57:
+  version "0.11.57"
+  resolved "https://registry.yarnpkg.com/weex-vue-render/-/weex-vue-render-0.11.57.tgz#0a1ae48d9903c58d34c1881e516814c7040e618a"
   dependencies:
     core-js "^2.4.1"
     envd "^0.1.1"
